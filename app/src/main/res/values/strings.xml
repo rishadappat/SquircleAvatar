@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Squircle Avatar</string>
+    <string name="baseUrl">https://fakerapi.it/api/v1/</string>
+</resources>
